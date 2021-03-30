@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>prolab21</OriginalElement>
+  <nodes>
+    <node x="232.0" y="303.0">prolab21.Azman</node>
+    <node x="456.0" y="281.0">prolab21.Tembel</node>
+    <node x="473.0" y="601.0">prolab21.Dijkstra</node>
+    <node x="683.0" y="303.0">prolab21.Gargamel</node>
+    <node x="341.25" y="0.0">prolab21.Karakter</node>
+    <node x="265.0" y="601.0">prolab21.Lokasyon</node>
+    <node x="0.0" y="601.0">prolab21.Map</node>
+    <node x="0.0" y="281.0">prolab21.Gozluklu</node>
+    <node x="0.0" y="921.0">prolab21.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="prolab21.Tembel" target="prolab21.Karakter">
+      <point x="0.0" y="-137.5" />
+      <point x="559.5" y="261.0" />
+      <point x="473.125" y="261.0" />
+      <point x="26.375" y="115.5" />
+    </edge>
+    <edge source="prolab21.Gozluklu" target="prolab21.Karakter">
+      <point x="0.0" y="-137.5" />
+      <point x="106.0" y="251.0" />
+      <point x="367.625" y="251.0" />
+      <point x="-79.125" y="115.5" />
+    </edge>
+    <edge source="prolab21.Gargamel" target="prolab21.Karakter">
+      <point x="0.0" y="-115.5" />
+      <point x="792.5" y="251.0" />
+      <point x="525.875" y="251.0" />
+      <point x="79.125" y="115.5" />
+    </edge>
+    <edge source="prolab21.Azman" target="prolab21.Karakter">
+      <point x="0.0" y="-115.5" />
+      <point x="334.0" y="261.0" />
+      <point x="420.375" y="261.0" />
+      <point x="-26.375" y="115.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="470.7142857142856" y="634.5714285714286" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
