@@ -1,7 +1,7 @@
 # Smurfs-Maze
-This is a maze game that player moves the smurfs with arrow keys.
+This is a maze game where the player moves the smurf using arrow keys.
 
-Gargamel and his cat Azrael will be following you to decrease your point. Try not to catched by them and reach to the La Schtroumpfette.
+Gargamel and his cat Azrael will be trying to catch you. Try not to get caught by them and reach the La Schtroumpfette.
 
 Here is how to play this amazing and complicated game:
 
@@ -9,16 +9,18 @@ Here is how to play this amazing and complicated game:
 
 -Type the character you want to play with (on console). There is 2 types of players ('tembel sirin' and 'gozluklu sirin').
 
--Then just try to reach to the La Schtroumpfette.
+-Attempt to reach to the La Schtroumpfette.
 
 -Your beginning point is 20.
 
--If Gargamel catchs you it will cost -15 points for you.
+Here is the rules:
 
--If Azrael catchs you it'll cost -5 points.
+If Gargamel catchs you it will cost -15 points for you.
 
--If your point is lower then 0 you lost.
+If Azrael catchs you it'll cost -5 points.
 
--If you reach La Schtroumpfette you win!
+If your point is lower then 0 you lost.
+
+If you reach La Schtroumpfette you win!
 
 Have fun!
